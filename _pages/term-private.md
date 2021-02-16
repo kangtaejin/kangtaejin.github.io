@@ -1,8 +1,8 @@
 ---
 title: 개인정보처리방침
 layout: collection
-permalink: /term-kor/
-collection: term-kor
+permalink: /privacy-kor/
+collection: privacy-kor
 entries_layout: grid
 classes: wide
 ---
