@@ -65,5 +65,5 @@ You can report all personal information protection-related complaints arising wh
     
 ------------------
     
-Name : 강태진  
+Name : TaeJin Kang
 email : <ktkt00000@gmail.com>
