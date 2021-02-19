@@ -2,7 +2,6 @@
 title: "블로그 시작"
 categories: 
   - blogging
-last_modified_at: 2021-02-15T13:00:00+09:00
 toc: true
 ---
 

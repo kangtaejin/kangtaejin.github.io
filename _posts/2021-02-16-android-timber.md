@@ -2,7 +2,6 @@
 title: "android timber"
 categories: 
   - android
-last_modified_at: 2021-02-16T20:00:00+09:00
 toc: true
 ---
 
