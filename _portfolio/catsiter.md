@@ -12,14 +12,14 @@ sidebar:
   - title: "Cat Fish Tycoon"
     text: "Android/IOS"
 gallery:
-  - url: /assets/images/catsiter/s0.png
-    image_path: assets/images/catsiter/s0.png
+  - url: /assets/images/catsiter/s0.jpg
+    image_path: assets/images/catsiter/s0.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/catsiter/s2.png
-    image_path: assets/images/catsiter/s2.png
+  - url: /assets/images/catsiter/s2.jpg
+    image_path: assets/images/catsiter/s2.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/catsiter/s3.png
-    image_path: assets/images/catsiter/s3.png
+  - url: /assets/images/catsiter/s3.jpg
+    image_path: assets/images/catsiter/s3.jpg
     alt: "placeholder image 3"
 ---
 
