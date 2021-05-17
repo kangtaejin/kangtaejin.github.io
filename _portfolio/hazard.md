@@ -11,14 +11,14 @@ sidebar:
   - title: "위험물 목록"
     text: "Android/IOS"
 gallery:
-  - url: /assets/images/hazard/s0.png
-    image_path: assets/images/hazard/s0.png
+  - url: /assets/images/hazard/s0.jpg
+    image_path: assets/images/hazard/s0.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/hazard/s1.png
-    image_path: assets/images/hazard/s1.png
+  - url: /assets/images/hazard/s1.jpg
+    image_path: assets/images/hazard/s1.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/hazard/s2.png
-    image_path: assets/images/hazard/s2.png
+  - url: /assets/images/hazard/s2.jpg
+    image_path: assets/images/hazard/s2.jpg
     alt: "placeholder image 3"
 ---
 
