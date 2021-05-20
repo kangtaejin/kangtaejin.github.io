@@ -29,5 +29,5 @@ gallery:
   Android  
   <https://play.google.com/store/apps/details?id=com.FirstMyJonHazard>  
     
-  <!-- iOS  
-  <https://apps.apple.com/us/app/tollgate-tycoon/id1551572556>   -->
+  iOS  
+  <https://apps.apple.com/us/app/id1567803462>  
