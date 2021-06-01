@@ -24,6 +24,7 @@ https://firebase.google.com/docs/app-distribution/ios/distribute-cli
     
 성공한 액션 yml은 아래와 같다.
 
+{% raw %}
 ```yml
 name: Build & upload to Firebase App Distribution 
 
@@ -73,6 +74,7 @@ jobs:
       env:
          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
 ```
+{% endraw %}
 
 빌드 서버 구성이 디버그, 스테이지, 운영서버 이렇게 빌드되고 있으며
   
