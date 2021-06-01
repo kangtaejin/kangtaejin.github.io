@@ -14,12 +14,12 @@ IOS Testflight처럼 편리하게 진행할수 있다.
   
 처음에는 깃허브 마켓플레이스의 아래를 이용하려고 했으나 apk 파일은 되는데 aab파일이 진행되지 않았다.  
 (물론 제가 잘 못한걸 수도...)  
-https://github.com/marketplace/actions/firebase-app-distribution  
+<https://github.com/marketplace/actions/firebase-app-distribution>  
 (아마도 추후엔 지원할 가능성이 높을것 같다)
 
 aab파일은 아직 지원하지 않는다는 이야기가 있었으나 최근에 지원하는 것을 확인했고  
 파이어베이스 CLI를 확인하여 해보니 문제없이 업로드가 되었다.  
-https://firebase.google.com/docs/app-distribution/ios/distribute-cli  
+<https://firebase.google.com/docs/app-distribution/ios/distribute-cli>  
   
     
 성공한 액션 yml은 아래와 같다.
