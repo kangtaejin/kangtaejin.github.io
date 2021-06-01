@@ -24,7 +24,7 @@ https://firebase.google.com/docs/app-distribution/ios/distribute-cli
     
 성공한 액션 yml은 아래와 같다.
 
-```
+```yml
 name: Build & upload to Firebase App Distribution 
 
 on: 
