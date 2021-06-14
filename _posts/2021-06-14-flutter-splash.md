@@ -11,7 +11,7 @@ Flutter 앱을 만들다 보면 초기에 데이터를 불러올때 느린경우
 이럴때 스플래시 화면을 주로 이용하게 된다.  
   
 Flutter Splash를 쉽게 만드는 법은 아래를 이용하는게 가장 편하다.  
-[https://pub.dev/packages/flutter_native_splash]
+<https://pub.dev/packages/flutter_native_splash>
   
 업데이트도 자주 있고 좋아보인다.  
   

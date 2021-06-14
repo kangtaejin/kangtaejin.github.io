@@ -9,7 +9,7 @@ toc: true
 
 깃허브 액션와 파이어베이스 TestLab 서비스를 연동하는 작업을 하려는데 참고한 글은 아래와 같다.
   
-[https://medium.com/firebase-developers/github-actions-firebase-test-lab-4bc830685a99]
+<https://medium.com/firebase-developers/github-actions-firebase-test-lab-4bc830685a99>  
   
 스크립트 작성하고 동작이 잘되는것을 확인했다.
   
@@ -22,7 +22,7 @@ Pull Request 이벤트가 발생하면
 uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
   
 그리고 친절하게   
-[https://github.com/google-github-actions/setup-gcloud]  
+<https://github.com/google-github-actions/setup-gcloud>  
 이걸 이용하라고 해서 다시 google-github-actions으로 작성 다시해보니
 별문제 없이 잘되었다.  
   

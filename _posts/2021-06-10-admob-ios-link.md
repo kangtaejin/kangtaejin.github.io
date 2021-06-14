@@ -15,4 +15,4 @@ ios는 앱 연결해야 광고가 나오는데
 그룹에 가입한 후  
 앱아이디와 앱링크정보와 함께 문의하면 된다고 한다.
 
-[https://groups.google.com/g/google-admob-ads-sdk]
+<https://groups.google.com/g/google-admob-ads-sdk>
