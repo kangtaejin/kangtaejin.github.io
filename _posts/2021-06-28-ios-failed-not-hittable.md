@@ -8,7 +8,7 @@ toc: true
 ## Failed: Not hittable
   
 XCUITest 코드를 작성 중  
-tab을 하려는데 tab이 안되는 경우 아래 extension을 작성해 해결했다
+tap을 하려는데 tap이 안되는 경우 아래 extension을 작성해 해결했다
   
   
 ```swift
