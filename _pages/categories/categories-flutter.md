@@ -3,7 +3,7 @@ title: "Flutter"
 layout: archive
 permalink: categories/flutter
 author_profile: true
-# sidebar_main: true
+sidebar_main: true
 ---
 
 
