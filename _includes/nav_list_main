@@ -50,25 +50,13 @@
 
         <span class="nav__sub-title">앱</span>
             <ul>
-                {% for portfolio in site.portfolio %}
-                    {% if portfolio[0] == "catsiter" %}
-                        <li><a href="/portfolio/catsiter" class="">냥시터 </a></li>
-                    {% endif %}
-                {% endfor %}
+                <li><a href="/portfolio/catsiter" class="">냥시터 </a></li>
             </ul>
             <ul>
-                {% for portfolio in site.portfolio %}
-                    {% if portfolio[0] == "tollgatetycoon" %}
-                        <li><a href="/portfolio/tollgatetycoon" class="">톨게이트 타이쿤 </a></li>
-                    {% endif %}
-                {% endfor %}
+                <li><a href="/portfolio/tollgatetycoon" class="">톨게이트 타이쿤 </a></li>
             </ul>
             <ul>
-                {% for portfolio in site.portfolio %}
-                    {% if portfolio[0] == "hazard" %}
-                        <li><a href="/portfolio/hazard" class="">위험물 </a></li>
-                    {% endif %}
-                {% endfor %}
+                <li><a href="/portfolio/hazard" class="">위험물 </a></li>
             </ul>
       </li>
   </ul>
