@@ -6,10 +6,6 @@
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
   <ul class="nav__items" id="category_tag_menu">
-      <!--전체 글 수-->
-      <li>
-            📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
-      </li>
       <li>
         <!--span 태그로 카테고리들을 크게 분류 ex) 개발-->
         <span class="nav__sub-title">개발</span>
@@ -25,8 +21,29 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "ios" %}
+                        <li><a href="/categories/ios" class="">ios ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "flutter" %}
                         <li><a href="/categories/flutter" class="">flutter ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "git" %}
+                        <li><a href="/categories/git" class="">git ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "jekyll" %}
+                        <li><a href="/categories/jekyll" class="">jekyll ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

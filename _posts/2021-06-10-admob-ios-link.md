@@ -1,7 +1,7 @@
 ---
 title: "ios admob link"
 categories: 
-  - admob
+  - ios
 toc: true
 ---
 
