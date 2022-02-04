@@ -49,8 +49,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "사용기" %}
-                        <li><a href="/categories/사용기" class="">사용기 ({{category[1].size}})</a></li>
+                    {% if category[0] == "일상" %}
+                        <li><a href="/categories/일상" class="">일상 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
