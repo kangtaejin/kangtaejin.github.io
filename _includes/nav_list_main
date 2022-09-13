@@ -65,6 +65,9 @@
             <ul>
                 <li><a href="/portfolio/hazard" class="">위험물 </a></li>
             </ul>
+            <ul>
+                <li><a href="/portfolio/babyfood" class="">이유식 달력 </a></li>
+            </ul>
       </li>
   </ul>
 </nav>
