@@ -11,21 +11,16 @@ sidebar:
   - title: "Coin PT"
     text: "Android/IOS"
 gallery:
-  - url: /assets/images/coinpt/s0.png
-    image_path: assets/images/coinpt/s0.png
+  - url: /assets/images/coinpt/s0.jpg
+    image_path: assets/images/coinpt/s0.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/coinpt/s1.png
-    image_path: assets/images/coinpt/s1.png
+  - url: /assets/images/coinpt/s1.jpg
+    image_path: assets/images/coinpt/s1.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/coinpt/s2.png
-    image_path: assets/images/coinpt/s2.png
+  - url: /assets/images/coinpt/s2.jpg
+    image_path: assets/images/coinpt/s2.jpg
     alt: "placeholder image 3"
-  - url: /assets/images/coinpt/s3.png
-    image_path: assets/images/coinpt/s3.png
-    alt: "placeholder image 4"
-  - url: /assets/images/coinpt/s4.png
-    image_path: assets/images/coinpt/s4.png
-    alt: "placeholder image 5"
+
 ---
 
 {% include gallery caption="앱 화면." %}
