@@ -1,11 +1,11 @@
 ---
-title: "Flutter SDK 3.24.0, Android SDK34"
+title: "Flutter SDK 3.24.0 Android SDK34"
 categories: 
   - flutter
 toc: true
 ---
   
-## Flutter SDK 3.24.0, Android SDK34
+## Flutter SDK 3.24.0 Android SDK34
   
 매년 찾아오는 Android Target SDK 버전 올리는 작업을 했다.  
 이번에는 Android SDK 34로 올리고 Flutter SDK버전도 3.13.7 버전에서 3.24.0 버전으로 올렸다.  
