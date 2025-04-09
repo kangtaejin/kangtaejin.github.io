@@ -7,7 +7,7 @@ toc: true
   
 ## Ios xcode cocoapods to spm error framework not found
   
-IOS에서 cocoapod 대신 이제 spm을 주로 사용하는 분위기인것 같다.  
+IOS에서 cocoapods 대신 이제 spm을 주로 사용하는 분위기인것 같다.  
 그래서 기존 프로젝트를 spm으로 수정하려고 하는데 아무리 가이드대로 해도 아래와 같은 에러가 떴었다.  
   
 framework not found  
