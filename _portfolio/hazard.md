@@ -13,13 +13,19 @@ sidebar:
 gallery:
   - url: /assets/images/hazard/s0.jpg
     image_path: assets/images/hazard/s0.jpg
-    alt: "placeholder image 1"
+    alt: "스크린샷 1"
   - url: /assets/images/hazard/s1.jpg
     image_path: assets/images/hazard/s1.jpg
-    alt: "placeholder image 2"
+    alt: "스크린샷 2"
   - url: /assets/images/hazard/s2.jpg
     image_path: assets/images/hazard/s2.jpg
-    alt: "placeholder image 3"
+    alt: "스크린샷 3"
+  - url: /assets/images/hazard/s3.jpg
+    image_path: assets/images/hazard/s3.jpg
+    alt: "스크린샷 4"
+  - url: /assets/images/hazard/s4.jpg
+    image_path: assets/images/hazard/s4.jpg
+    alt: "스크린샷 5"
 ---
 
 {% include gallery caption="위험물 목록 앱 화면." %}
